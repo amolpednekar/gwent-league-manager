@@ -10,3 +10,7 @@ https://nodejs.org/en/download
   * Run `npm run dev`
 This will start the project
 3. To access the UI, go to http://localhost:5173
+
+Note: 
+If you close the command line window; the server will stop. 
+You will need to run `npm run dev` again to restart the server. (No data will be lost)
